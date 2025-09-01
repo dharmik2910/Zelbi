@@ -2,9 +2,9 @@
 
   📌 Overview
   
-    Zelbi (Brainy Beats) is an AI-powered investment dashboard designed to empower retail investors. It delivers personalized financial insights, real-time market data, tax compliance support, and AI-driven       portfolio management.
+  Zelbi (Brainy Beats) is an AI-powered investment dashboard designed to empower retail investors. It delivers personalized financial insights, real-time market data, tax compliance support, and AI-driven       portfolio management.
     
-    By combining React.js (Vite) on the frontend, Express.js + MongoDB on the backend, and Gemini AI for financial advisory, Zelbi simplifies investment decisions with interactive visualizations, predictive analytics, and secure user authentication.
+  By combining React.js (Vite) on the frontend, Express.js + MongoDB on the backend, and Gemini AI for financial advisory, Zelbi simplifies investment decisions with interactive visualizations, predictive analytics, and secure user authentication.
 
 
 🎯 Target Audience
