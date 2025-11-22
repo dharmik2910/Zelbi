@@ -1,4 +1,4 @@
-# Zelbi - An Investor Dashboard
+# Zelbi - AI Powered Investment Dashboard
 
 A modern, full-stack investment dashboard application that helps investors track, analyze, and manage their investments efficiently.
 
